@@ -1,0 +1,8 @@
+{
+  "name": "client-ach",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4ac2ad7a"
+}
